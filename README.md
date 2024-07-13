@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyshekhaliya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyshekhaliya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sbhavy245" target="blank"><img src="https://img.shields.io/twitter/follow/sbhavy245?logo=twitter&style=for-the-badge" alt="sbhavy245" /></a> </p>
-
 - 🌱 I’m currently learning **GraphQL Subscription for realtime applications**
 
 - 📝 I regularly write articles on [https://medium.com/@bhavyshekhaliya](https://medium.com/@bhavyshekhaliya)
