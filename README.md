@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyshekhaliya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyshekhaliya" /> </p>
 
-- 🌱 I’m currently learning **GraphQL Subscription for realtime applications**
+- 🌱 I’m currently learning **Redis with NestJs GraphQL**
 
 - 📝 I regularly write articles on [https://medium.com/@bhavyshekhaliya](https://medium.com/@bhavyshekhaliya)
 
